@@ -13,6 +13,7 @@ Sendo assim, o grupo dividiu as seguintes sub-tarefas:
 |Implementação do teste E2E |Marcos Nery, Renato Britto, André Goretti|
 |Correção do bug|Renato Britto, André Goretti, Kalebe Lopes|
 |Implementação dos testes unitários adicionais|Renato Britto, André Goretti, Kalebe Lopes|
+|Adições e correções pedidas no review do PR|Marcos Nery, André Goretti, Gabriel Albino|
 
 Finalmente, foi aberto um [PR](https://github.com/kubernetes/ingress-nginx/issues/7344) para incluir as modificações. Algumas melhorias foram requisitadas nos reviews, e após a realização das mesmas pelos alunos Marcos Nery, André Goretti e Gabriel Albino o PR foi aceito e mergeado, tendo passado em toda a pipeline de CI do projeto. 
 
