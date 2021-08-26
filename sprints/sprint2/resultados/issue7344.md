@@ -24,3 +24,4 @@ Finalmente, foi aberto um [PR](https://github.com/kubernetes/ingress-nginx/issue
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |25/08/21|1.0|Criação do documento|Marcos Nery|
+|26/08/21|1.0|Correção da tabela de divisão de tarefas|Marcos Nery|
