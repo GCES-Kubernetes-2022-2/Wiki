@@ -1,7 +1,7 @@
 # Planejamento 
 |Sprint|Inicio|Fim|
 |:--:|:--:|:--:|
-|01|17/08/2021|01/08/2021|
+|02|17/08/2021|26/08/2021|
 ## Discussão
 Após a exploração inicial do projeto do K8s pelo grupo, os membros tiveram mais segurança para começar a contribuir. O primeiro passo, mapeado durante a sprint anterior, foi escolher um SIG para obter maior familiaride. A escolha foi o ingress-nginx.
 
