@@ -15,8 +15,8 @@
         - [Issue 7344](/sprints/sprint2/resultados/issue7344.md)
 
 - Sprint 3
-    - [Planejamento](/sprints/sprint3/planejamento.md)
+    - [Planejamento](/sprints/sprint 3/planejamento.md)
     - Resultados 
-        - [Issue 7575](/sprint3/sprint3/resultados/issue7575.md)
-        - [Issue 13939](/sprint3/sprint3/resultados/issue13939.md)
-        - [Reviews de Pull Requests](/sprints/sprint3/resultados/escolha-do-sig.md)
+        - [Issue 7575](/sprint3/sprint 3/resultados/issue7575.md)
+        - [Issue 13939](/sprint3/sprint 3/resultados/issue13939.md)
+        - [Reviews de Pull Requests](/sprints/sprint 3/resultados/escolha-do-sig.md)
