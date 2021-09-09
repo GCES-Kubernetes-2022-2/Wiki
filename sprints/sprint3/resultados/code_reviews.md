@@ -20,7 +20,7 @@ Por fim, sugerimos então que o PR fosse aceito com a solução e a melhoria, pa
 corrigido. E uma issue fosse criada para rastrear a necessidade de uma refatoração que trouxesse a 
 solução mais correta do problema.
 
-A discussão foi bem produtiva e o mantenedor decidiu aceitar a sugestão, aceitando o PR e abrindo uma issue.
+A discussão foi bem produtiva e o mantenedor decidiu aceitar a sugestão, aceitando o PR. Com isso, o aluno Marcos Nery começou a contribuir com os testes de desempenho, que estão sendo discutidos no canal do slack [#ingress-nginx-dev](https://kubernetes.slack.com/archives/C021E147ZA4) para levantar os insumos que levarão a abertura da issue de refatoração.
 
 ![code_review](https://gces-kubernetes.github.io/Wiki/assets/sprint3/code-review1.png)
 
