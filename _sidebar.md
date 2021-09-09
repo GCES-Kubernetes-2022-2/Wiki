@@ -17,6 +17,6 @@
 - Sprint 3
     - [Planejamento](/sprints/sprint3/planejamento.md)
     - Resultados 
-        - [Issue 7575](/sprint3/sprint3/resultados/issue7575.md)
-        - [Issue 13939](/sprint3/sprint3/resultados/issue13939.md)
+        - [Issue 7575](/sprints/sprint3/resultados/issue7575.md)
+        - [Issue 13939](/sprints/sprint3/resultados/issue13939.md)
         - [Reviews de Pull Requests](/sprints/sprint3/resultados/escolha-do-sig.md)
