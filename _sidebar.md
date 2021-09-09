@@ -13,3 +13,9 @@
         - [Escolha do SIG](/sprints/sprint2/resultados/escolha-do-sig.md)
         - [Issue 13939 e 29522](/sprints/sprint2/resultados/issue13939.md)
         - [Issue 7344](/sprints/sprint2/resultados/issue7344.md)
+
+- Sprint 3
+    - [Planejamento](/sprints/sprint3/planejamento.md)
+    - Resultados 
+        - [Reviews de Pull Requests](/sprints/sprint3/resultados/escolha-do-sig.md)
+        - [Issue 13939](/sprint3/sprint3/resultados/issue13939.md)
