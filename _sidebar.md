@@ -19,4 +19,4 @@
     - Resultados 
         - [Issue 7575](/sprints/sprint3/resultados/issue7575.md)
         - [Issue 13939](/sprints/sprint3/resultados/issue13939.md)
-        - [Reviews de Pull Requests](/sprints/sprint3/resultados/escolha-do-sig.md)
+        - [Reviews de Pull Requests](/sprints/sprint3/resultados/code_reviews.md)
