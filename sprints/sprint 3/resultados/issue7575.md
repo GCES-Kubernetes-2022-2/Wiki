@@ -1,1 +1,1 @@
-## Issue [#7575 ingress-nginx](https://github.com/kubernetes/website/issues/13939)
+## Issue [#7575 ingress-nginx](https://github.com/kubernetes/ingress-nginx/issues/7575)
