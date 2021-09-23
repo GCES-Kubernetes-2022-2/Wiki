@@ -15,3 +15,4 @@ da sprint. Abaixo segue uma lista de quais são elas, de como está o progresso 
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |23/09/21|1.0|Criação do documento|Marcos Nery|
+|23/09/21|1.1|Adição de contribuição de Renato Britto|Renato Britto|
