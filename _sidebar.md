@@ -20,3 +20,9 @@
         - [Issue 7575](/sprints/sprint3/resultados/issue7575.md)
         - [Issue 13939](/sprints/sprint3/resultados/issue13939.md)
         - [Reviews de Pull Requests](/sprints/sprint3/resultados/code_reviews.md)
+
+- Sprint 4
+    - [Planejamento](/sprints/sprint4/planejamento.md)
+    - Resultados 
+        - [Issues em andamento](/sprints/sprint4/resultados/issues-andamento.md)
+        - [Issue 13939](/sprints/sprint4/resultados/issue13939.md)
