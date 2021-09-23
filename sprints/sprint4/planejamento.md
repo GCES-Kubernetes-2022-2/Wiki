@@ -14,7 +14,7 @@ também seriam candidatas para essa sprint.
 
 |Issue|Descrição|Responsável|
 |:--:|:--:|:--:|
-|[website#13939](https://github.com/kubernetes/website/issues/13939)|Tradução da documentação para pt-BR|Marcos Nery|
+|[website#13939](https://github.com/kubernetes/website/issues/13939)|Tradução da documentação para pt-BR|Marcos Nery e Gabriel Albino|
 |[kubebuilder#1405](https://github.com/kubernetes-sigs/kubebuilder/issues/1405)|Melhoria da compatibilidade do Kubebuilder com Windows|Marcos Nery|
 
 ## Histórico de Revisão
