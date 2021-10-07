@@ -1,7 +1,7 @@
 # Planejamento 
 |Sprint|Inicio|Fim|
 |:--:|:--:|:--:|
-|04|09/09/2021|23/09/2021|
+|05|23/09/2021|07/10/2021|
 ## Discussão
 Nessa sprint o esforço planejado foi manter o ritmo de trabalho nas frentes iniciadas. Contribuindo com 
 documentação, revisões de Pull Requests, e issues de código. 
