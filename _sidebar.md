@@ -26,3 +26,10 @@
     - Resultados 
         - [Issues em andamento](/sprints/sprint4/resultados/issues-andamento.md)
         - [Issue 13939](/sprints/sprint4/resultados/issue13939.md)
+
+
+- Sprint 5
+    - [Planejamento](/sprints/sprint5/planejamento.md)
+    - Resultados 
+        - [Issues em andamento](/sprints/sprint5/resultados/issues-andamento.md)
+        - [Issue abertas](/sprints/sprint5/resultados/issues-abertas.md)
