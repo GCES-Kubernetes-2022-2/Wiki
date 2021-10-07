@@ -9,9 +9,11 @@ Foi encontrado inicialmente uma issue guarda-chuva para correção de static-che
 |:--:|:--:|:--:|
 |[kubbernetes#92402](https://github.com/kubernetes/kubernetes/issues/92402)|Em progresso, correções de dois pacotes (vendor/k8s.io/apiserver/pkg/server/routes, vendor/k8s.io/apiserver/pkg/storage/value/encrypt/envelope)|Gabriel Albino, João Pedro, Renato Brito|
 |[kubbernetes#1407](https://github.com/kubernetes/kubernetes/issues/84473)|Aguardando veredito do mantenedor para melhor entendimento do contexto e realização da tarefa.|Gabriel Albino, João Pedro, Renato Brito|
+|[kubebuilder#1407](https://github.com/kubernetes-sigs/kubebuilder/issues/1407)|PR em draft esperando progresso de outro colaborador|Marcos Nery|
 
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |07/10/21|1.0|Criação do documento|Gabriel Albino|
+|07/10/21|1.1|Adição no documento|Marcos Nery|
