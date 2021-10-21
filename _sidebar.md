@@ -33,3 +33,8 @@
     - Resultados 
         - [Issues em andamento](/sprints/sprint5/resultados/issues-andamento.md)
         - [Issue abertas](/sprints/sprint5/resultados/issues-abertas.md)
+
+
+- Sprint 6
+    - Resultados 
+        - [Issue 13939](/sprints/sprint6/resultados/issue13939.md)
