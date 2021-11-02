@@ -15,6 +15,8 @@ O método deveria apenas servir para retornar uma lista dos servidores a serem u
 
 Isso já melhorou as coisas um pouco, no entanto, após essa refatoração também foi notado que esse métodos poderiam sair até mesmo desse arquivo de definições do controller, já que havia um outro arquivo justamente responsável por coisas relacionadas aos certificados. Então por fim, esses métodos extraídos foram movidos para lá.
 
+Com isso, foi possível propor melhorias no contexto do Single Responsibility Principle do SOLID e em vários pontos do Clean Code, como os já citados acima nos resultados da análise estática. 
+
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
