@@ -39,3 +39,7 @@
 - Sprint 6
     - Resultados 
         - [Issue 13939](/sprints/sprint6/resultados/issue13939.md)
+
+- Sprint 7
+    - Planejamento 
+        - [Planejamento](/sprints/sprint7/planejamento.md)
