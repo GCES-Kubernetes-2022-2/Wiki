@@ -40,6 +40,7 @@
     - [Planejamento](/sprints/sprint6/planejamento.md)
     - Resultados 
         - [Issue 13939](/sprints/sprint6/resultados/issue13939.md)
+        - [Issue 84473](/sprints/sprint6/resultados/issue84473.md)
 
 - Sprint 7
     - [Planejamento](/sprints/sprint7/planejamento.md)
