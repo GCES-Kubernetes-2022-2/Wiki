@@ -9,7 +9,7 @@ Nessa sprint o objetivo era fechar issues que ainda estavam em andamento. Dito i
 
 |Issue|Descrição|Responsável|
 |:--:|:--:|:--:|
-||||
+|[#13939 website](https://github.com/kubernetes/website/issues/13939)|Issue de tradução da documentação para pt-br|Marcos Nery, João Pedro|
 
 
 

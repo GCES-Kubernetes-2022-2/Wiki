@@ -43,3 +43,5 @@
 - Sprint 7
     - Planejamento 
         - [Planejamento](/sprints/sprint7/planejamento.md)
+    - Resultados 
+        - [Issue 13939](/sprints/sprint7/resultados/issue13939.md)
