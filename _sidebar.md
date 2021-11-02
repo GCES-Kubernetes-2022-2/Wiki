@@ -33,6 +33,7 @@
     - Resultados 
         - [Issues em andamento](/sprints/sprint5/resultados/issues-andamento.md)
         - [Issue abertas](/sprints/sprint5/resultados/issues-abertas.md)
+        - [Propostas de melhoria](/sprints/sprint5/resultados/propostas-de-melhoria.md)
 
 
 - Sprint 6
