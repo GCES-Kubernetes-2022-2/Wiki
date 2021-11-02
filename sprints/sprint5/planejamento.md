@@ -3,7 +3,7 @@
 |:--:|:--:|:--:|
 |05|23/09/2021|07/10/2021|
 ## Discussão
-O grupo optou por procurar problemas de clean-code, procurando issues relacionadas a refatorações e analises estáticas.
+Nessa sprint, o objetivo era procurar nos repositórios do contexto Kubernetes oportunidades de melhoria que nos permitissem seguir os princípios de Clean Code e SOLID. Dito isso, os membros se dividiram para fazer essa busca, olhando os códigos manualmente, procurando issues relacionadas ou utilizando análisadores estáticos. 
 
 ## Tarefas pré-planejadas 
 
