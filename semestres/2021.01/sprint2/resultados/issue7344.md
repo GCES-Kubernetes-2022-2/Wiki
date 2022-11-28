@@ -19,8 +19,8 @@ Finalmente, foi aberto um [PR](https://github.com/kubernetes/ingress-nginx/issue
 
 ![issue-comentarios](https://gces-kubernetes.github.io/Wiki/assets/sprint2/issue7344-2.png)
 
-
 ## Histórico de Revisão
+
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |25/08/21|1.0|Criação do documento|Marcos Nery|
