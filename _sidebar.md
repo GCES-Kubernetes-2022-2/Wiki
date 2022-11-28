@@ -3,6 +3,7 @@
 - Semestres:
 - 2022.02
   - Sprint 1
+    - [Planejamento](/semestres/2022.02/sprint1/planejamento.md)
 - 2021.01
   - Sprint 1
     - [Planejamento](/semestres/2021.01/sprint1/planejamento.md)

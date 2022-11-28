@@ -5,6 +5,16 @@
   border: 0;
 }
 
+.reunioes {
+  position: center;
+  height: 27rem;
+}
+
+.conhecimentos {
+  position: center;
+  height: 47rem;
+}
+
 html {
   font-family: helvetica, arial, sans-serif;
 }
