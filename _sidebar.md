@@ -3,10 +3,10 @@
 - Semestres:
 - 2022.02
   - Sprint 1
-    - [Planejamento](semestres/2022_02/sprint1/planejamento)
+    - [Planejamento](./semestres/2022_02/sprint1/Planejamento.md)
     - Resultados
-      - [Kubernetes](semestres/2022_02/sprint1/resultados/kubernetes)
-      - [Equipe](semestres/2022_02/sprint1/resultados/equipe)
+      - [Kubernetes](./semestres/2022_02/sprint1/resultados/kubernetes.md)
+      - [Equipe](./semestres/2022_02/sprint1/resultados/equipe.md)
 - 2021.01
   - Sprint 1
     - [Planejamento](/semestres/2021.01/sprint1/planejamento.md)
