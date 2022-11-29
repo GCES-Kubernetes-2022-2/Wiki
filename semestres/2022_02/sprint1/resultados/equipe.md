@@ -11,4 +11,5 @@ Conseguimos fazer os testes iniciais do Kubernetes, juntamente com alguns PRs de
 |Tradução de pid-limiting| Davi Matheus | [PR](https://github.com/kubernetes/website/pull/38142) |
 |Tradução de Container Runtime Interface| Ana | [PR](https://github.com/kubernetes/website/pull/38138) |
 |Tradução de Pages windows| Daniela | [PR](https://github.com/kubernetes/website/pull/38140#pullrequestreview-1197031135) |
+|Tradução de Pages Pod Security Policy| Edson | [PR](https://github.com/kubernetes/website/pull/38144) |
 |Teste de Kubernetes | Paulo | [Teste](kubernetes.md) |
