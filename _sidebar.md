@@ -3,14 +3,17 @@
 - Semestres:
 - 2022.02
   - Sprint 1
-    - [Planejamento](/semestres/2022.02/sprint1/planejamento.md)
+    - [Planejamento](semestres/2022.02/sprint1/planejamento.md)
+    - Resultados
+      - [Kubernetes](semestres/2022.02/sprint1/comunidade.md)
+      - [Comunidade](semestres/2022.02/sprint1/comunidade.md)
 - 2021.01
   - Sprint 1
     - [Planejamento](/semestres/2021.01/sprint1/planejamento.md)
-      - Resultados
-        - [Golang](/semestres/2021.01/sprint1/resultados/Golang.md)
-        - [Kubernetes](/semestres/2021.01/sprint1/resultados/Kubernetes.md)
-        - [Comunidade](/semestres/2021.01/sprint1/resultados/Comunidade.md)
+    - Resultados
+      - [Golang](/semestres/2021.01/sprint1/resultados/Golang.md)
+      - [Kubernetes](/semestres/2021.01/sprint1/resultados/Kubernetes.md)
+      - [Comunidade](/semestres/2021.01/sprint1/resultados/Comunidade.md)
   - Sprint 2
     - [Planejamento](/semestres/2021.01/sprint2/planejamento.md)
     - Resultados
