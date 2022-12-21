@@ -13,3 +13,4 @@ Conseguimos fazer os testes iniciais do Kubernetes, juntamente com alguns PRs de
 |Tradução de Pages windows| Daniela | [PR](https://github.com/kubernetes/website/pull/38140#pullrequestreview-1197031135) |
 |Tradução de Pages Pod Security Policy| Edson | [PR](https://github.com/kubernetes/website/pull/38144) |
 |Teste de Kubernetes | Paulo | [Teste](kubernetes.md) |
+|Tradução de Kubernetes Issues and Security| Ítalo | [PR](https://github.com/kubernetes/website/pull/38130) |

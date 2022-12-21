@@ -17,3 +17,5 @@ Após a última sprint, a equipe seguiu o conselho da professora e trabalhamos e
 |Tradução Configure DNS for a Cluster | Paulo | [PR](https://github.com/kubernetes/website/pull/38482#discussion_r1053577929) |
 |Tradução Access Applications in a Cluster | Paulo | [PR](https://github.com/kubernetes/website/pull/38483) |
 |Revisão do PR: WIP - pt-br Translating page: Customizing DNS Service | Paulo | [PR](https://github.com/kubernetes/website/pull/38481/files/2a75a0d17be50292413b008ba3babbbaf44e8405..820c2462c2a123263cb966fa0225c04bcd5a2439) |
+|Correção do PR: Tradução de Kubernetes Issues and Security| Ítalo | [PR](https://github.com/kubernetes/website/pull/38130) |
+|Tradução de Kubernetes Security and Disclosure Information| Ítalo | [PR](https://github.com/kubernetes/website/pull/38408) |
