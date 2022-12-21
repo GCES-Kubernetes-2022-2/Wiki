@@ -11,6 +11,10 @@
     - [Planejamento](./semestres/2022_02/sprint2/planejamento.md)
     - Resultados
       - [Equipe](./semestres/2022_02/sprint2/resultados/equipe.md)
+  - Sprint 3
+    - [Planejamento](./semestres/2022_02/sprint3/planejamento.md)
+    - Resultados
+      - [Equipe](./semestres/2022_02/sprint3/resultados/equipe.md)
 - 2021.01
   - Sprint 1
     - [Planejamento](/semestres/2021.01/sprint1/planejamento.md)
