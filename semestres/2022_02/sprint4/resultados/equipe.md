@@ -16,5 +16,8 @@ Após a última sprint, com um melhor conhecimento da linguagem e da própria co
 |Revisão do PR: Volume Health Monitoring | Daniela | [PR](https://github.com/kubernetes/website/pull/38885) |
 |Melhoramento de Testes | Edson | [PR](https://github.com/kubernetes/kubernetes/issues/105678) |
 |Aprimoramento dos Logs de falhas do caso de teste em  e2e/apps. | Paulo | [PR](https://github.com/kubernetes/kubernetes/pull/115094#) |
+|Revisão do PR: Configure-dns-cluster.md| Paulo | [PR](https://github.com/kubernetes/website/pull/38482)|
+|Revisão do PR: Access-application-cluster/\_index.md| Paulo | [PR](https://github.com/kubernetes/website/pull/38483) |
+|Revisão do PR: Customizing DNS Service| Paulo | [PR](https://github.com/kubernetes/website/pull/38481)|
 |Correção do PR: Tradução de Kubernetes Issues and Security| Ítalo | [PR](https://github.com/kubernetes/website/pull/38130) |
 |Tradução Official Cve Feed| Ítalo | [PR](https://github.com/kubernetes/website/pull/38977) |
